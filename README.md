@@ -14,4 +14,4 @@ urlMatch = "example.com/api"
 ```
 
 ## Note:
-# This script is simple, Ensure you understand the implications and potential security risks
+This script is simple, Ensure you understand the implications and potential security risks
