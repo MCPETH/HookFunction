@@ -3,7 +3,7 @@ Lua script designed for use with the Synapse X exploit framework. The script uti
 
 ## Usage:
 
-#Set the correctReturn variable to the desired return value, typically "Whitelisted".
+Set the correctReturn variable to the desired return value, typically "Whitelisted".
 Specify the target URL part using the urlMatch variable.
 The hook intercepts syn.request calls, checks if the specified URL part matches, and returns a custom response with a 200 status code and the predefined body if there's a match.
 Example:
